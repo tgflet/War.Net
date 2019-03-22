@@ -1,0 +1,11 @@
+/Users/Catalyst/Desktop/dotnet_stack/oop/decked/bin/Debug/netcoreapp2.1/decked.deps.json
+/Users/Catalyst/Desktop/dotnet_stack/oop/decked/bin/Debug/netcoreapp2.1/decked.runtimeconfig.json
+/Users/Catalyst/Desktop/dotnet_stack/oop/decked/bin/Debug/netcoreapp2.1/decked.runtimeconfig.dev.json
+/Users/Catalyst/Desktop/dotnet_stack/oop/decked/bin/Debug/netcoreapp2.1/decked.dll
+/Users/Catalyst/Desktop/dotnet_stack/oop/decked/bin/Debug/netcoreapp2.1/decked.pdb
+/Users/Catalyst/Desktop/dotnet_stack/oop/decked/obj/Debug/netcoreapp2.1/decked.csprojAssemblyReference.cache
+/Users/Catalyst/Desktop/dotnet_stack/oop/decked/obj/Debug/netcoreapp2.1/decked.csproj.CoreCompileInputs.cache
+/Users/Catalyst/Desktop/dotnet_stack/oop/decked/obj/Debug/netcoreapp2.1/decked.AssemblyInfoInputs.cache
+/Users/Catalyst/Desktop/dotnet_stack/oop/decked/obj/Debug/netcoreapp2.1/decked.AssemblyInfo.cs
+/Users/Catalyst/Desktop/dotnet_stack/oop/decked/obj/Debug/netcoreapp2.1/decked.dll
+/Users/Catalyst/Desktop/dotnet_stack/oop/decked/obj/Debug/netcoreapp2.1/decked.pdb
